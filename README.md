@@ -16,3 +16,4 @@ Se seu computador não possuir a biblioteca instalada, você irá conseguir comp
 LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/aluno/CG/vendor/SDL2_ttf/lib
 export LD_LIBRARY_PATH
 ```
+https://github.com/kiqaps/cg
